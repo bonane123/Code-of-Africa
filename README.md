@@ -61,7 +61,7 @@ To run this project, you need to have Node.js installed on your system. You can 
 1. Open the `index.js` file and edit the input string as needed:
 
    ```javascript
-   const input = "Hello Beautiful World";
+   const input = "Hello World";
    console.log(transformString(input));
    ```
 
